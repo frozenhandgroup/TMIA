@@ -1,1 +1,2 @@
 ta daronne
+elle est en string?
